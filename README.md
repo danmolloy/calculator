@@ -1,4 +1,4 @@
-#FreeCodeCamp Javascript Calculator
+# FreeCodeCamp Javascript Calculator
 
 By Daniel Molloy
 
