@@ -6,10 +6,5 @@ By Daniel Molloy
 
 This is a calculator created with react for FreeCodeCamp's Front End Developnment Libraries, following these [user stories](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator).
 
-I used this project as an opportunity to use create-react-app for the first time, rather than building it in CodePen.
-
-This is my second attempt at the calculator. Improvements include:
-- More attractive CSS design
-- Mutliple react components
-
+I used this project as an opportunity to use create-react-app for the first time, rather than building it in CodePen. I also spent some time further exploring CSS and creating multiple components.
 
